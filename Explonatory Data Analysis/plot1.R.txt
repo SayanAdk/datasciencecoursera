@@ -1,0 +1,6 @@
+
+
+
+> data = read.csv("hpc.csv")	## I have changed the name of the data set for simplicity
+
+> hist(data$Global_active_power , col = "red" , xlab = "Global Active Power (kilowatts)" , main = "Global Active Power")

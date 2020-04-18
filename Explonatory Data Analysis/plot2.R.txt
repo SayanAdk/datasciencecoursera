@@ -1,0 +1,2 @@
+> data = read.csv("hpc.csv")
+> plot(data$Global_active_power , type = "l" , xlab = "" , ylab = "Global active power")
